@@ -1,0 +1,15 @@
+/Users/Mathys/Desktop/Travail/TP_Village/TP/obj/Debug/net7.0/TP.csproj.AssemblyReference.cache
+/Users/Mathys/Desktop/Travail/TP_Village/TP/obj/Debug/net7.0/TP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Mathys/Desktop/Travail/TP_Village/TP/obj/Debug/net7.0/TP.AssemblyInfoInputs.cache
+/Users/Mathys/Desktop/Travail/TP_Village/TP/obj/Debug/net7.0/TP.AssemblyInfo.cs
+/Users/Mathys/Desktop/Travail/TP_Village/TP/obj/Debug/net7.0/TP.csproj.CoreCompileInputs.cache
+/Users/Mathys/Desktop/Travail/TP_Village/TP/bin/Debug/net7.0/TP
+/Users/Mathys/Desktop/Travail/TP_Village/TP/bin/Debug/net7.0/TP.deps.json
+/Users/Mathys/Desktop/Travail/TP_Village/TP/bin/Debug/net7.0/TP.runtimeconfig.json
+/Users/Mathys/Desktop/Travail/TP_Village/TP/bin/Debug/net7.0/TP.dll
+/Users/Mathys/Desktop/Travail/TP_Village/TP/bin/Debug/net7.0/TP.pdb
+/Users/Mathys/Desktop/Travail/TP_Village/TP/obj/Debug/net7.0/TP.dll
+/Users/Mathys/Desktop/Travail/TP_Village/TP/obj/Debug/net7.0/refint/TP.dll
+/Users/Mathys/Desktop/Travail/TP_Village/TP/obj/Debug/net7.0/TP.pdb
+/Users/Mathys/Desktop/Travail/TP_Village/TP/obj/Debug/net7.0/TP.genruntimeconfig.cache
+/Users/Mathys/Desktop/Travail/TP_Village/TP/obj/Debug/net7.0/ref/TP.dll
